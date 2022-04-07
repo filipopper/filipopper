@@ -14,7 +14,7 @@ Skills: CSS / HTML / MONGODB / NODE / PYTHON
 - 😄 Pronouns: he/him 
 
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/filipopper_/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/filip0pper)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/filip0pper)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipovichhh)](https://github.com/anuraghazra/github-readme-stats)
 
