@@ -13,14 +13,17 @@ Skills: CSS / HTML / MONGODB / NODE / PYTHON
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
 - 😄 Pronouns: he/him 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipovichhh)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/filipovichhh)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=filipovichhh)   
 
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](//a)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/filipopper_/)
 
 [![Discord](https://img.shields.io/badge/Discord-Join!-6a0dad)](https://discord.gg/9bnHFHJ3Vz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipovichhh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/filipovichhh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=filipovichhh)   
+
+
