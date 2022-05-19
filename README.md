@@ -1,4 +1,5 @@
-###### I know everything, but I know a little about everything.
+<img align='left' src='https://github.com/FILIPOVICHHH/FILIPOVICH/sprites/master/globglob.gif' width='20%'/> 
+
 <h1 align="left">BIO</h1>
 
 <h3 align="left">
