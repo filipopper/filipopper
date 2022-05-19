@@ -18,7 +18,7 @@ Skills: CSS / HTML / MONGODB / NODE / PYTHON
 
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](//a)
 
-[!Twitch Badge](https://img.shields.io/twitch/status/filipopper?color=%23ac0ecc&label=Twitch&logo=twitch&logoColor=%23e3e3e3)
+[![Twitch Badge](https://img.shields.io/badge/status/filipopper?color=%23ac0ecc&label=Twitch&logo=twitch&logoColor=%23e3e3e3)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/filipopper_/)
 
