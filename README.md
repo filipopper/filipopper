@@ -5,6 +5,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
 
+<h1 align="left">BIO</h1>
+
+<h3 align="left">
+  Welcome to Nicolás Filipovich profile!
+</h3>
+My name is Nicolás Filipovich, I'm 17 years old, I live in Uruguay and:
+
 **I'm a computer science baccalaureate student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
 
 - 🔭 I’m currently working on many web projects 
