@@ -1,4 +1,4 @@
-<img align='left' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/GOD.gif' width='20%'/> 
+<img align='left' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/globglob.gif' width='20%'/> 
 
 <h1 align="left">BIO</h1>
 
