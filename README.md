@@ -1,6 +1,5 @@
 ### console.log('Okay i pull up...')
 ###### I know everything, but I know a little about everything.
-![I know everything, but I know a little about everything.]
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
