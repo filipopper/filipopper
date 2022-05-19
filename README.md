@@ -20,8 +20,5 @@ Skills: CSS / HTML / MONGODB / NODE / PYTHON
 
 [![Discord](https://img.shields.io/badge/Discord-Join!-6a0dad)](https://discord.gg/9bnHFHJ3Vz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipovichhh)](https://github.com/anuraghazra/github-readme-stats) 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=filipovichhh)   
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PermisosDev&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PermisosDev&theme=tokyonight&layout=compact"/>
 
