@@ -1,4 +1,4 @@
-### console.log('Okay i pull up. ')
+### console.log('Okay i pull up...')
 ###### I know everything, but I know a little about everything.
 ![I know everything, but I know a little about everything.]
 
