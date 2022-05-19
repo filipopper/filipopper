@@ -10,7 +10,7 @@
 
 
 
-My name is Nicolás Filipovich, I'm 17 years old and I'm from in Uruguay.
+My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 **I'm a computer science baccalaureate student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
 
 - 🔭 I’m currently working on many web projects 
