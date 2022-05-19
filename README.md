@@ -3,6 +3,7 @@
 
 <img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
 
 **I am a computer science baccalaureate student**, I have a partner business on web development and I want to expand my knowledge and professional training.
