@@ -1,4 +1,4 @@
-### console.log('Okay i pull up...')
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gilroy&color=3AF700&lines=Follow+the+white+rabbit)](https://git.io/typing-svg)
 ###### I know everything, but I know a little about everything.
 
 <img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>  
