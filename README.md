@@ -7,6 +7,13 @@
 
 **I'm a computer science baccalaureate student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
 
+- 🔭 I’m currently working on many web projects 
+- 🌱 I’m currently learning PHP, Fabric, Spigot and React.js 
+- 👯 I’m looking to collaborate on any organization 
+- 💬 Ask me about DeFi 
+- 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
+- 😄 Pronouns: he/him 
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
@@ -66,12 +73,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-- 🔭 I’m currently working on many web projects 
-- 🌱 I’m currently learning PHP, Fabric, Spigot and React.js 
-- 👯 I’m looking to collaborate on any organization 
-- 💬 Ask me about DeFi 
-- 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
-- 😄 Pronouns: he/him 
+### 📱 Social Networks
 
 <p>
     <a href="https://www.tiktok.com/@"><img alt=TikTok src="https://img.shields.io/badge/TikTok-Follow-blue"></a>
