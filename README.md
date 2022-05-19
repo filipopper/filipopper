@@ -1,7 +1,7 @@
 ### console.log('Okay i pull up...')
 ###### I know everything, but I know a little about everything.
 
-<img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='50%'>  
+<img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
 
