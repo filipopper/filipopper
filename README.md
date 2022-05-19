@@ -1,16 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gilroy&color=3AF700&lines=Follow+the+white+rabbit)](https://git.io/typing-svg)
 ###### I know everything, but I know a little about everything.
 
-<img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
+
 
 <h1 align="left">BIO</h1>
 
 <h3 align="left">
   Welcome to Nicolás Filipovich profile!
 </h3>
-My name is Nicolás Filipovich, I'm 17 years old, I live in Uruguay and:
+
+My name is Nicolás Filipovich, I'm 17 years old, I live in Uruguay and
 
 **I'm a computer science baccalaureate student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
 
@@ -19,7 +18,11 @@ My name is Nicolás Filipovich, I'm 17 years old, I live in Uruguay and:
 - 👯 I’m looking to collaborate on any organization 
 - 💬 Ask me about DeFi 
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: he/him
+
+<img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
 
 ## 🛠️ My favorite tools
 
