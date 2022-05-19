@@ -7,7 +7,7 @@
 Skills: CSS / HTML / MONGODB / NODE / PYTHON
 
 - 🔭 I’m currently working on many web projects 
-- 🌱 I’m currently learning PHP and JS 
+- 🌱 I’m currently learning PHP and React.js 
 - 👯 I’m looking to collaborate on any organization 
 - 💬 Ask me about DeFi 
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
