@@ -70,7 +70,7 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 
 <p>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-1793D1.svg?logo=kali-linux&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
