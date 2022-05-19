@@ -1,4 +1,4 @@
-<img align='left' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/kirby.gif' width='20%'/> 
+<img align='left' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/globglob.gif' width='20%'/> 
 
 <h1 align="left">BIO</h1>
 
@@ -20,7 +20,6 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
 - 😄 Pronouns: he/him
 
-<img align='right' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/The_Fire.gif' width='30%'>  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
 
