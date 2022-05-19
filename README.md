@@ -38,7 +38,6 @@
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
@@ -56,8 +55,6 @@
 
 <p>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=kali-linux&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
@@ -69,10 +66,8 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-Skills: CSS / HTML / MONGODB / NODE / PYTHON / SQL / GIT
-
 - 🔭 I’m currently working on many web projects 
-- 🌱 I’m currently learning PHP and React.js 
+- 🌱 I’m currently learning PHP, Fabric, Spigot and React.js 
 - 👯 I’m looking to collaborate on any organization 
 - 💬 Ask me about DeFi 
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
