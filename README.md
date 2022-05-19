@@ -1,9 +1,10 @@
-### console.log('Hell-o!! 🐸')
+### console.log('Okay i pull up. 🍮')
 ###### I know everything, but I know a little about everything.
 ![I know everything, but I know a little about everything.](https://i.pinimg.com/originals/57/55/a8/5755a88523523c540731f6c59a78eb6f.gif)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+
 
 **I am a computer science baccalaureate student**, I have a partner business on web development and I want to expand my knowledge and professional training.
 
