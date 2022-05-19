@@ -74,11 +74,9 @@
 - 😄 Pronouns: he/him 
 
 <p>
-    <a href="https://www.tiktok.com/@a"><img alt=TikTok src="https://img.shields.io/badge/TikTok-Follow-blue"></a>
-
-[![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)]
-
-[![Twitch ](https://img.shields.io/twitch/status/filipopper?color=%23ac0ecc&label=Twitch&logo=twitch&logoColor=%23e3e3e3)](//twitch.tv/filipopper)
+    <a href="https://www.tiktok.com/@"><img alt=TikTok src="https://img.shields.io/badge/TikTok-Follow-blue"></a>
+    <a href="https://www.twitch.tv/filipopper"><img alt=Twitch src="(https://img.shields.io/twitch/status/filipopper?color=%23ac0ecc&label=Twitch&logo=twitch&logoColor=%23e3e3e3)"></a>
+    <a href="https://www.instagram.com/filipopper_/"><img alt=Instagram src="(https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)"></a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/filipopper_/)
 
