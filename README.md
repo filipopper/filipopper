@@ -1,6 +1,8 @@
-<img align='left' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/luv.gif' width='50%'/> 
+
 
 <h1 align="left">BIO</h1>
+
+<img align='left' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/luv.gif' width='50%'/> 
 
 <h3 align="left">
 
