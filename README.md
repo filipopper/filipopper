@@ -84,7 +84,7 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 ### 📱 Social Networks
 
 <p>
-    <a href="https://www.tiktok.com/@" target:_blank><img alt=TikTok src="https://img.shields.io/badge/TikTok-Follow-blue"></a>
+    <a href="https://www.tiktok.com/@" target="_blank"><img alt=TikTok src="https://img.shields.io/badge/TikTok-Follow-blue"></a>
     <a href="https://www.twitch.tv/filipopper"><img alt=Twitch src="https://img.shields.io/twitch/status/filipopper?color=%23ac0ecc&label=Twitch&logo=twitch&logoColor=%23e3e3e3"></a>
     <a href="https://www.instagram.com/filipopper_/"><img alt=Instagram src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
     <a href="https://discord.gg/9bnHFHJ3Vz"><img alt=Discord src="https://img.shields.io/badge/Discord-Join!-6a0dad"></a>
