@@ -8,7 +8,7 @@
 
 </h3>
 
-<img align='rigth' src='https://raw.githubusercontent.com/FILIPOVICHHH/FILIPOVICHHH/master/sprites/luv.gif' width='50%'/> 
+<img align='rigth' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='50%'/> 
 
 My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 **I'm a computer science baccalaureate student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
@@ -20,29 +20,29 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
 - 😄 Pronouns: he/him
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPOVICHHH&theme=tokyonight&layout=compact"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=FILIPOVICHHH&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=tokyonight&layout=compact"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Aruby"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AFILIPOVICHHH+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Aruby"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Afilipopper+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
