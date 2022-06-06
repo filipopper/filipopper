@@ -20,7 +20,7 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
 - 😄 Pronouns: he/him
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=tokyonight&layout=compact"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=tokyonight&layout=compact"/> <br></br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 ## 🛠️ My favorite tools
 
