@@ -4,11 +4,9 @@
 
 <h3 align="left">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&lines=Welcome+to+Nicolás+Filipovich's+Profile!;Follow+Me+in+Twitch)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&lines=Welcome+to+Nicolás+Filipovich's+Profile!;Follow+Me+in+Twitch)](https://git.io/typing-svg) <img align='rigth' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='30%'/> 
 
 </h3>
-
-<img align='rigth' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='30%'/> 
 
 My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 **I'm a computer science bachelor's degree student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
