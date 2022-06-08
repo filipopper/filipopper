@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&lines=Welcome+to+Nicolás+Filipovich's+Profile!;Follow+Me+in+Twitch)](https://git.io/typing-svg) <img align='rigth' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='30%'/> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&lines=Welcome+to+Nicolás+Filipovich's+Profile!;Follow+Me+in+Twitch)](https://git.io/typing-svg) <img align='rigth' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='15vw!important'/> 
 
 </h3>
 
