@@ -10,14 +10,7 @@
 
 <p align="center">My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 **I'm a computer science bachelor's degree student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
-
-- 🔭 I’m currently working on many web projects 
-- 🌱 I’m currently learning PHP, Fabric, Spigot and React.js 
-- 👯 I’m looking to collaborate on any organization 
-- 💬 Ask me about DeFi 
-- 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
-- 😄 Pronouns: he/him</p>
-
+</p>
 
   <a href="https://github.com/Filipopper">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="Filipopper"/>
