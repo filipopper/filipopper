@@ -56,6 +56,7 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-404d59.svg?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
