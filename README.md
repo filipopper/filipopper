@@ -7,7 +7,7 @@
 <h3 align="left">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F756F2&lines=WELCOME+TO+THE+PROFILE+OF+FILIPOPPER;FOLLOW+ME+ON+TWITCH)](https://git.io/typing-svg)
- 
+
 </h3>
 
 <p align="left">
@@ -30,7 +30,7 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 
 <p align="left">
   <a href="https://discord.com/users/589531953926111245" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/589531953926111245?&animated=true&borderRadius=10px&idleMessage=Nothing..." alt="Discord Presence">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/589531953926111245?&animated=true&borderRadius=10px&" alt="Discord Presence">
   </a>
 </p>
 
