@@ -1,8 +1,8 @@
 [](https://hit.yhype.me/github/profile?user_id=77903770)
  
 
-<h1 align="left">BIO</h1>
-<img align='right' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='20%'> 
+<h1 align="left">BIO</h1><img align='right' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='20%'> 
+
 <h3 align="left">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F756F2&lines=WELCOME+TO+THE+PROFILE+OF+FILIPOPPER;FOLLOW+ME+ON+TWITCH)](https://git.io/typing-svg)
