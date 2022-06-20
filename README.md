@@ -17,15 +17,15 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 - 😄 Pronouns: he/him
 
   <a href="https://github.com/filipopper">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="filipopper"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="filipopper"/>
   </a>
 
   <a href="github.com/filipopper">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=radical&layout=compact" alt="filipopper"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=radical&layout=compact" alt="filipopper"/>
   </a>
 
   <a href="https://discord.com/users/589531953926111245" target="_blank" rel="nofollow">
-    <img align="left" src="https://lanyard-profile-readme.vercel.app/api/589531953926111245?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/589531953926111245?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 
 
