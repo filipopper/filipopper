@@ -7,9 +7,10 @@
 <h3 align="left">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F756F2&lines=WELCOME+TO+THE+PROFILE+OF+FILIPOPPER;FOLLOW+ME+ON+TWITCH)](https://git.io/typing-svg)
-
+ 
 </h3>
 
+<p align="left">
 My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 **I'm a computer science bachelor's degree student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
 
@@ -19,7 +20,7 @@ My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 - 💬 Ask me about DeFi 
 - 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
 - 😄 Pronouns: he/him
-
+</p>
 
 <p align="left">
   <a href="https://github.com/filipopper">
