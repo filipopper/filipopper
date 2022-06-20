@@ -21,7 +21,7 @@
   <a href="https://github.com/filipopper">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="filipopper"/>
   </a>
-  
+
 <br></br>
 
   <a href="github.com/filipopper">
