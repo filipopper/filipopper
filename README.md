@@ -19,11 +19,11 @@
 
 
   <a href="https://github.com/filipopper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="filipopper"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en&borderRadius=30px" alt="filipopper"/>
   </a>
 <br></br>
   <a href="github.com/filipopper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=radical&layout=compact" alt="filipopper"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=radical&layout=compact&borderRadius=30px" alt="filipopper"/>
   </a>
 <br></br>
   <a href="https://discord.com/users/589531953926111245" target="_blank" rel="nofollow">
