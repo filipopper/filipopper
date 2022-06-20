@@ -1,3 +1,6 @@
+[](https://hit.yhype.me/github/profile?user_id=77903770)
+<img align='right' src='https://raw.githubusercontent.com/filipopper/filipopper/master/sprites/luv.gif' width='20%'>  
+
 <h1 align="left">BIO</h1>
 
 <h3 align="left">
