@@ -1,29 +1,33 @@
 
+<h1 align="left">BIO</h1>
 
-<h1 align="center">BIO</h1>
-
-<h3 align="center">
+<h3 align="left">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F756F2&lines=WELCOME+TO+THE+PROFILE+OF+FILIPOPPER;FOLLOW+ME+ON+TWITCH)](https://git.io/typing-svg)
 
 </h3>
 
-<p align="center">
-
-My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
+<p align="center">My name is Nicolás Filipovich, I have 17 years old and I'm from Uruguay.
 **I'm a computer science bachelor's degree student**, right now I'm working on my graduation project with an emphasis on web development. at the same time I have a business with my partner where we take care of the creation and maintenance of web pages. I want to expand my knowledge and professional training, I hope to be able to apply to any job opportunity that is presented to me.
 
-</p>
+- 🔭 I’m currently working on many web projects 
+- 🌱 I’m currently learning PHP, Fabric, Spigot and React.js 
+- 👯 I’m looking to collaborate on any organization 
+- 💬 Ask me about DeFi 
+- 📫 How to reach me: You can find me on any of my social networks or you can also send me an email to nicolas.filipovich@estudiante.ceibal.edu.uy (it is not certain that I will respond if you send me an email) 
+- 😄 Pronouns: he/him</p>
 
-<p align="center">
-  <a href="https://github.com/Filipopper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="Filipopper"/>
+
+  <a href="https://github.com/filipopper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&layour=compact" alt="filipopper"/>
   </a>
+
+    <a href="github.com/filipopper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=radical&layout=compact"/>"</a>
 <br></br>
   <a href="https://discord.com/users/589531953926111245" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/589531953926111245?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
-</p>
 
 ## 🛠️ My favorite tools
 
