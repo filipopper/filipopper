@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&lines=Welcome+to+Nicolás+Filipovich's+Profile!;Follow+Me+in+Twitch)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F756F2&lines=WELCOME+TO+THE+PROFILE+OF+FILIPOPPER;FOLLOW+ME+ON+TWITCH)](https://git.io/typing-svg)
 
 </h3>
 
