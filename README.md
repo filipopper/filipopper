@@ -1,8 +1,8 @@
 
 
-<h1 align="left">BIO</h1>
+<h1 align="center">BIO</h1>
 
-<h3 align="left">
+<h3 align="center">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F756F2&lines=WELCOME+TO+THE+PROFILE+OF+FILIPOPPER;FOLLOW+ME+ON+TWITCH)](https://git.io/typing-svg)
 
