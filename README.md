@@ -21,15 +21,11 @@
   <a href="https://github.com/filipopper">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipopper&show_icons=true&theme=radical&count_private=true&locale=en" alt="filipopper"/>
   </a>
-
 <br></br>
-
   <a href="github.com/filipopper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipopper&theme=radical&layout=compact" alt="filipopper"/>
   </a>
-
 <br></br>
-
   <a href="https://discord.com/users/589531953926111245" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard-profile-readme.vercel.app/api/589531953926111245?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
