@@ -1,7 +1,10 @@
-## Professional Resume
+## Professional Resume 
+# Johan Nicolás Filipovich Perdomo ![](https://komarev.com/ghpvc/?username=filipopper&color=blueviolet)
 
-### Johan Nicolás Filipovich Perdomo - Polymath 
-![](https://komarev.com/ghpvc/?username=filipopper&color=blueviolet)
+Polymath, Full Stack Developer
+
+#### Currently
+Standing on the shoulders of giants
 
 #### Summary
 **Dedicated and versatile full-stack software developer** with a passion for creating efficient and high-quality software solutions. Specializing in dynamic programming, database administration, system design, DevOps, machine learning, and data analysis. **Highly skilled in leading teams and providing excellent customer service**. An ethical hacker with expertise in securing systems and networks to ensure data integrity and confidentiality. Fluent in Spanish and proficient knowledge in English (B2 level).
@@ -20,13 +23,12 @@ I consider myself a motivated and committed person, **always looking for new opp
 - Security: Ethical Hacking, Network Security, Information Protection
 
 #### Work Experience
-#### Work Experience
 ##### Team Leader, Geomaníacos *2021 - 2021*
-- I led the "Geomaníacos" team for the design and development of a Java-based video game to participate in the Plan Ceibal programming programming olympics with specific themes (like a game jam).
+- I led the "Geomaníacos" team for the design and development of a Java-based video game to participate in the Plan Ceibal programming olympics with specific themes (like a game jam).
 - Collaborated with cross-functional teams to ensure seamless integration of functions.
 - Advised junior developers, fostering a collaborative and growth-oriented environment.
 - We were not able to finish developing the game due to a lack of commitment among the members, but we managed to get a special mention and a note in the local newspaper
->*(https://olimpiada.ceibal.edu.uy/edicionesanteriores/2021/proyecto/40/geo-mania/)
+>*(https://olimpiada.ceibal.edu.uy/edicionesanteriores/2021/proyecto/40/geo-mania/)*
 >*(https://hoycanelones.com.uy/2021/11/15/estudiantes-de-la-utu-de-canelones-desarrollaron-un-videojuego-para-las-olimpiadas-de-ceibal/)*
 
 ##### Coordinator, Capybara Corp *2022 - 2022*
@@ -64,7 +66,7 @@ I consider myself a motivated and committed person, **always looking for new opp
 #### Contact
 - Email: finanzovich@gmail.com
 - LinkedIn: https://www.linkedin.com/in/johan-nicolás-filipovich-perdomo-bb5795263/
-- GitHub: https://www.github.com/filipopper
+- Portfolio: https://filipopper.github.io/Portfolio/
 
 ---
->If anyone is interested in knowing more about my experience and skills, you can contact me through any of my social networks.
+>If anyone is interested in knowing more about my experience and skills or requires answers and solutions, you can contact me through any of my social networks, I will be happy to assist you.
