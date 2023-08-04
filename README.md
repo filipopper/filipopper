@@ -65,7 +65,7 @@ I consider myself a motivated and committed person, **always looking for new opp
 
 #### Contact
 - Email: finanzovich@gmail.com
-- LinkedIn: https://www.linkedin.com/in/johan-nicolás-filipovich-perdomo-bb5795263/
+- LinkedIn: https://www.linkedin.com/in/filipopper/
 - Portfolio: https://filipopper.github.io/Portfolio/
 
 ---
