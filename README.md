@@ -10,7 +10,7 @@ I consider myself a motivated and committed person, **always looking for new opp
 >**PS:** In addition to my interest in programming, I also have a great passion for creative writing. I'm currently working on several digital mini-books that I'll be posting on GitHub in the coming weeks/months/years. In these books, I will explain various programming topics and many other topics using fun analogies with kittens. I hope they are useful for those who want to learn in a more playful and accessible way. ***Stay tuned!***
 
 #### Education
-- Bachelor's degree in Computer Science with a focus on Web Development - 2022
+- Bachelor's degree in Computer Science with a focus on Web Development *2020 - 2023*
 - A lot of certifications (https://filipopper.github.io/Portfolio/)
 
 #### Technical Skills
@@ -20,27 +20,30 @@ I consider myself a motivated and committed person, **always looking for new opp
 - Security: Ethical Hacking, Network Security, Information Protection
 
 #### Work Experience
-##### Founder & Manager, Blockchain-Based Solutions
-- I led and managed self-managed projects based on the development of blockchain-based solutions related to various topics.
-- I successfully developed safe and efficient software products.
-- I used strong analytical and problem-solving skills to design cutting-edge blockchain solutions.
-
-##### Team Leader, Geomaníacos
-- I led the "Geomaníacos" team for the design and development of a Java-based video game to participate in the Plan Ceibal programming tournament with specific themes (game jam).
+#### Work Experience
+##### Team Leader, Geomaníacos *2021 - 2021*
+- I led the "Geomaníacos" team for the design and development of a Java-based video game to participate in the Plan Ceibal programming programming olympics with specific themes (like a game jam).
 - Collaborated with cross-functional teams to ensure seamless integration of functions.
 - Advised junior developers, fostering a collaborative and growth-oriented environment.
 - We were not able to finish developing the game due to a lack of commitment among the members, but we managed to get a special mention and a note in the local newspaper
+>*(https://olimpiada.ceibal.edu.uy/edicionesanteriores/2021/proyecto/40/geo-mania/)
+>*(https://hoycanelones.com.uy/2021/11/15/estudiantes-de-la-utu-de-canelones-desarrollaron-un-videojuego-para-las-olimpiadas-de-ceibal/)*
 
-##### Founder & Leader, The Meowpany
-- I am in the process of creating content-rich books using a playful writing style using kittens to engage readers and simplify complex topics related to astronomy, programming, data analysis, liberalism, among others.
-- I generate varied content (currently private) such as short films, 2D-3D animation, videos with various themes about my hobbies and tastes, music, among others.
-
-##### Coordinator, Capybara Corp
+##### Coordinator, Capybara Corp *2022 - 2022*
 - Coordinated and managed the graduation project for the computer science baccalaureate, ensuring on-time delivery and quality standards.
 - Collaborated with stakeholders to understand requirements and offer customized solutions.
 - Contributed to the growth and success of the organization through the implementation of innovative ideas.
 - I took care of a large part of the tasks such as the database administrator (DBA), web design, backend, among others.
 - I absolved myself from the team due to the lack of commitment from the other members, I continued working on my own in an individual team.
+
+##### Founder & Leader, The Meowpany *since 2022*
+- I am in the process of creating content-rich books using a playful writing style using kittens to engage readers and simplify complex topics related to astronomy, programming, data analysis, liberalism, among others.
+- I generate varied content (currently private) such as short films, 2D-3D animation, videos with various themes about my hobbies and tastes, music, among others.
+
+##### Founder & Manager, Blockchain-Based Solutions
+- I led and managed self-managed projects based on the development of blockchain-based solutions related to various topics.
+- I successfully developed safe and efficient software products.
+- I used strong analytical and problem-solving skills to design cutting-edge blockchain solutions.
 
 #### Projects & Contributions
 - Contributed to open-source projects in the field of security and data protection.
